@@ -41,8 +41,8 @@ def runtxt(z):
 
 def helpnote():
 	print("%s [*] FOLLOW ME ON Fb TU KNOW ABOUT TOOLS  :)"%(G))
-	subprocess.check_output(["https://raw.githubusercontent.com/K14NG-S14M/Siam-Approval.txt/main/Siam143-approval.txt"])
-	exit(" [*] FACEBOOK :  https://www.facebook.com/xaiko.siam.12")
+	subprocess.check_output(
+	exit(" [*]
 
 
 def notice():
